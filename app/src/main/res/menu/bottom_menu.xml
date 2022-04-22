@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Home-->
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:menuCategory="secondary"
+        android:title="@string/home" />
+
+    <!--Whishlist-->
+    <item
+        android:icon="@drawable/ic_whishlist_outline"
+        android:menuCategory="secondary"
+        android:title="@string/whishlist" />
+
+    <!--Scan-->
+    <item
+        android:icon="@drawable/ic_scan_outlin"
+        android:menuCategory="secondary"
+        android:title="@string/scan" />
+
+    <!--Collection-->
+    <item
+        android:icon="@drawable/ic_collection_outline"
+        android:menuCategory="secondary"
+        android:title="@string/collection" />
+
+    <!--Profile-->
+    <item
+        android:icon="@drawable/ic_profile_outline"
+        android:menuCategory="secondary"
+        android:title="@string/profile" />
+
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Practical</string>
+    <string name="home">Home</string>
+    <string name="whishlist">Whishlist</string>
+    <string name="collection">Collection</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="_30_coins">30 coins</string>
+    <string name="scan">Scan</string>
+    <string name="lorem">Lorem ipsum dolor sit ament, consectetur</string>
+    <string name="sell">Sell</string>
+</resources>
